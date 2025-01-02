@@ -1,0 +1,22 @@
+{
+  "name": "curve-fit-js",
+  "version": "1.0.0",
+  "description": "Javascript package for curve fitting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpanda/curve-fit-js.git"
+  },
+  "keywords": [
+    "curve-fit"
+  ],
+  "author": "Arijit Panda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpanda/curve-fit-js/issues"
+  },
+  "homepage": "https://github.com/arpanda/curve-fit-js#readme"
+}

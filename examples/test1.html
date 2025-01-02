@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curve-fit-js Example</title>
+</head>
+<body>
+    <h1>Example 1</h1>
+    <div id="output"></div>
+    <script type="module">
+        // Import the add function from the correct relative path
+        import myPackage from '../index.js';
+
+        // Use the add function and display the result
+        const result = myPackage.add(10, 20);
+        console.log(result);
+        document.getElementById('output').textContent = `Result: ${result}`;
+    </script>
+</body>
+</html>
